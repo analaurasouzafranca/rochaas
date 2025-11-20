@@ -1,3 +1,8 @@
 # rochaas
 rochas 
 Existem três tipos principais de rochas: magmáticas (ou ígneas), sedimentares e metamórficas, classificadas de acordo com a sua origem. As rochas magmáticas se formam pelo resfriamento do magma, as sedimentares se formam pelo acúmulo de sedimentos, e as metamórficas se formam pela transformação de rochas preexistentes. 
+Rochas metamórficas são formadas pela transformação de rochas preexistentes (sedimentares, ígneas ou outras metamórficas) sob a ação de alta temperatura, pressão e/ou fluidos quentes, sem que cheguem a fundir completamente. Este processo, chamado metamorfismo, causa alterações na composição mineralógica, textura e estrutura da rocha, podendo levar à formação de novos minerais ou ao recristalização dos já existentes. Exemplos comuns incluem o mármore, o quartzito, o gnaisse e o xisto. 
+
+Rochas sedimentares são formadas pela acumulação e cimentação de sedimentos, que são fragmentos de outras rochas, restos de organismos ou precipitações químicas, depositados ao longo do tempo em bacias como oceanos, lagos e rios. Esse processo, chamado de litificação, ocorre através da compactação e cimentação dos sedimentos. Elas são conhecidas por apresentarem estratificação (camadas) e por frequentemente conterem fósseis. 
+
+Rochas magmáticas (ou ígneas) se formam a partir do resfriamento e solidificação do magma (rocha derretida) ou lava (magma que chegou à superfície). Elas são classificadas principalmente em dois tipos: intrusivas (ou plutônicas), que se solidificam lentamente no interior da Terra, formando cristais grandes visíveis a olho nu (ex: granito), e extrusivas (ou vulcânicas), que se solidificam rapidamente na superfície, resultando em cristais pequenos e uma textura de grãos finos (ex: basalto e pedra-pomes). 
